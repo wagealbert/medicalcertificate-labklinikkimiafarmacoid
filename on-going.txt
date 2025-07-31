@@ -1,0 +1,17 @@
+- Accurately label and annotate financial documents and other data to train AI models, following predefined guidelines.
+- Review, check, and correct AI-generated outputs (such as extracted data or parsed text from documents).
+- Ensure that review tasks meet the defined Service Level Agreements (SLAs) for turnaround time and accuracy.
+- Provide detailed feedback on parsing errors and edge cases to help improve the AI model's accuracy.
+- Work closely with AI developers and data scientists to ensure proper understanding of annotation guidelines and to address any ambiguities in the data.
+- Generate regular reports and documentation
+
+
+req
+
+- Thorough and detail oriented to spot errors and inconsistencies in parsed data or annotated records.
+- Experience working with Excel, Google Sheets, and related tools for data annotation with data annotation tools such as Argilla.io, Label Studio is a plus.
+- Basic understanding of AI/ML concepts, especially regarding data labelling and human-in-the-loop processes.
+- Problem-solving skills and ability to interpret and refine complex data outputs.
+- Ability to communicate effectively with technical teams to report issues and discuss improvements.
+- Experience with financial documents such as bank statements, invoices, and balance sheets is preferred.
+- Previous experience working with OCR (Optical Character Recognition) systems or AI-based parsing tools is preferred.
